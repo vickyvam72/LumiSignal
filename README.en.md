@@ -14,7 +14,7 @@
 
 **🌐 Bahasa / Language:** &nbsp; [🇮🇩 Bahasa Indonesia](README.md) &nbsp;|&nbsp; **🇬🇧 English**
 
-[⬇️ Download](#%EF%B8%8F-download--install) · [✨ Features](#-features) · [📖 Guide](#-how-to-use) · [❓ FAQ](#-faq--troubleshooting) · [📝 Changelog](CHANGELOG.md)
+[⬇️ Download](#%EF%B8%8F-download--install) · [📸 Screenshots](#-screenshots) · [✨ Features](#-features) · [📖 Guide](#-how-to-use) · [❓ FAQ](#-faq--troubleshooting) · [📝 Changelog](CHANGELOG.md)
 
 </div>
 
@@ -42,13 +42,20 @@
 
 <div align="center">
 
-| Home | First screening | History |
-|:-:|:-:|:-:|
-| <img src="docs/screenshots/beranda.png" width="230"> | <img src="docs/screenshots/screening-pertama.png" width="230"> | <img src="docs/screenshots/riwayat.png" width="230"> |
+| 🏠 Home | 🖼️ Share as images |
+|:-:|:-:|
+| <img src="docs/screenshots/beranda.png" width="250" alt="Lumi Signal IDX home"> | <img src="docs/screenshots/bagikan-sinyal.png" width="250" alt="Shared signal image"> |
+| **Open the app, the signals are already waiting.** Tomorrow's Top 5 High Profit and High Win-rate stocks, with **buy limit, TP, and SL**. Arrives every day at **17:00 WIB**. | **One tap, ready to send.** Buy date, entry, TP, SL, and **why the stock made the radar**, neatly in one image for your group or friends. |
 
-| Stock check | Backtest | Shared image |
-|:-:|:-:|:-:|
-| <img src="docs/screenshots/cek-saham.png" width="230"> | <img src="docs/screenshots/backtest.png" width="230"> | <img src="docs/screenshots/bagikan-sinyal.png" width="230"> |
+| 📡 First screening | 📜 History |
+|:-:|:-:|
+| <img src="docs/screenshots/screening-pertama.png" width="250" alt="First screening"> | <img src="docs/screenshots/riwayat.png" width="250" alt="Strategy History"> |
+| **Only once, ever.** The radar spins while checking that Stockbit is connected, the background audit is on, and **data for hundreds of stocks has arrived**. | **Proof, not promises.** Every signal is audited against **real prices** until it hits TP or SL. Win-rate and cumulative P/L, exactly as they are. |
+
+| 📊 Stock check | 🧪 Backtest |
+|:-:|:-:|
+| <img src="docs/screenshots/cek-saham.png" width="250" alt="Stock check"> | <img src="docs/screenshots/backtest.png" width="250" alt="Monthly backtest"> |
+| **Curious about one stock?** Type its ticker for an entry, TP & SL plan, plus **2 supports and 2 resistances** right on the chart. | **Test the strategy before you trust it.** Results for every month since October 2025, **growing by itself every day** with finished trades. |
 
 </div>
 

@@ -14,7 +14,7 @@
 
 **🌐 Bahasa / Language:** &nbsp; **🇮🇩 Bahasa Indonesia** &nbsp;|&nbsp; [🇬🇧 English](README.en.md)
 
-[⬇️ Unduh](#%EF%B8%8F-unduh--pasang) · [✨ Fitur](#-fitur) · [📖 Panduan](#-panduan-pemakaian) · [❓ FAQ](#-faq--mengatasi-masalah) · [📝 Catatan Perubahan](CHANGELOG.md)
+[⬇️ Unduh](#%EF%B8%8F-unduh--pasang) · [📸 Tampilan](#-tampilan) · [✨ Fitur](#-fitur) · [📖 Panduan](#-panduan-pemakaian) · [❓ FAQ](#-faq--mengatasi-masalah) · [📝 Catatan Perubahan](CHANGELOG.md)
 
 </div>
 
@@ -42,13 +42,20 @@
 
 <div align="center">
 
-| Beranda | Screening pertama | Riwayat |
-|:-:|:-:|:-:|
-| <img src="docs/screenshots/beranda.png" width="230"> | <img src="docs/screenshots/screening-pertama.png" width="230"> | <img src="docs/screenshots/riwayat.png" width="230"> |
+| 🏠 Beranda | 🖼️ Bagikan sebagai gambar |
+|:-:|:-:|
+| <img src="docs/screenshots/beranda.png" width="250" alt="Beranda Lumi Signal IDX"> | <img src="docs/screenshots/bagikan-sinyal.png" width="250" alt="Gambar sinyal yang dibagikan"> |
+| **Buka aplikasi, sinyal sudah menunggu.** Top 5 Profit Tinggi dan Winrate Tinggi untuk besok, lengkap dengan **batas beli, TP, dan SL**. Tiba setiap hari pukul **17.00 WIB**. | **Satu ketukan, langsung siap dikirim.** Tanggal beli, entry, TP, SL, dan **kenapa saham itu masuk radar**, rapi dalam satu gambar untuk grup atau teman. |
 
-| Cek Saham | Backtest | Gambar yang dibagikan |
-|:-:|:-:|:-:|
-| <img src="docs/screenshots/cek-saham.png" width="230"> | <img src="docs/screenshots/backtest.png" width="230"> | <img src="docs/screenshots/bagikan-sinyal.png" width="230"> |
+| 📡 Screening pertama | 📜 Riwayat |
+|:-:|:-:|
+| <img src="docs/screenshots/screening-pertama.png" width="250" alt="Screening pertama"> | <img src="docs/screenshots/riwayat.png" width="250" alt="Riwayat Strategi"> |
+| **Cukup sekali seumur aplikasi.** Radar berputar sambil memastikan Stockbit terhubung, audit latar belakang aktif, dan **data ratusan saham diterima lengkap**. | **Bukan janji, tapi bukti.** Setiap sinyal diaudit dengan **harga asli** sampai kena TP atau SL. Winrate dan akumulasi P/L terlihat apa adanya. |
+
+| 📊 Cek Saham | 🧪 Backtest |
+|:-:|:-:|
+| <img src="docs/screenshots/cek-saham.png" width="250" alt="Cek Saham"> | <img src="docs/screenshots/backtest.png" width="250" alt="Backtest per bulan"> |
+| **Penasaran dengan satu saham?** Ketik kodenya dan dapatkan rencana entry, TP & SL, plus **2 support dan 2 resistance** langsung di chart. | **Uji strategi sebelum percaya.** Hasil setiap bulan sejak Oktober 2025, **bertambah sendiri setiap hari** dengan transaksi yang sudah selesai. |
 
 </div>
 
