@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+__pycache__/
+
+# Kunci tanda tangan APK (disimpan di GitHub Secrets)
+keystore/
+*.jks
+*.keystore
