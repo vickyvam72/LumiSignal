@@ -78,8 +78,9 @@
 
 ### 🔔 Otomatis setiap hari bursa
 - Pukul **17.00 WIB** aplikasi mengambil saham pantauan terbaru, **langsung memasukkannya ke Riwayat Strategi**, lalu mengirim **notifikasi**
-- Harga diaudit dengan high & low harian asli **tiap 1 menit selama jam bursa, juga saat aplikasi ditutup** (ada notifikasi kecil "Audit harga berjalan")
+- Harga diaudit dengan high & low harian asli **tiap 1 menit selama jam bursa, juga saat aplikasi ditutup** (tanpa bunyi dan tanpa ikon di status bar)
 - Notifikasi **"✅ terbeli di …"** lengkap dengan **entry, TP, dan SL**, lalu notifikasi lagi saat kena **TP atau SL**
+- **Rekap setiap sore** setelah pasar tutup: berapa saham hold, kena TP, kena SL, dan akumulasi P/L
 - **Token Stockbit diperbarui otomatis setiap hari**, jadi tidak perlu sering login ulang
 
 ### 📜 Riwayat

@@ -80,8 +80,9 @@
 
 ### 🔔 Automatic every trading day
 - At **17:00 WIB** the app fetches the new watchlist, **adds it to Strategy History**, and sends a **notification**
-- Prices are audited with real daily highs & lows **every minute during market hours, even with the app closed** (a small "price audit running" notification shows it)
+- Prices are audited with real daily highs & lows **every minute during market hours, even with the app closed** (silent, without a status-bar icon)
 - A **"✅ bought at …"** notification with **entry, TP, and SL**, then another one at **TP or SL**
+- **A recap every afternoon** after the close: holds, TP, SL, and cumulative P/L
 - **The Stockbit token is renewed automatically every day**
 
 ### 📜 History
