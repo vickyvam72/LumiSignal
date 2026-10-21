@@ -4,7 +4,7 @@
 
 ### Radar sinyal beli saham Bursa Efek Indonesia untuk Android
 
-*Top 5 saham setiap hari bursa pukul 17.00 WIB · entry, TP & SL siap pakai · hasil diaudit otomatis*
+*Top 5 saham pantauan setiap hari bursa pukul 17.00 WIB · entry, TP & SL diumumkan saat terbeli · audit harga tiap 1 menit*
 
 [![Rilis](https://img.shields.io/github/v/release/vickyvam72/LumiSignal?label=rilis&color=2F6BFF&style=for-the-badge)](https://github.com/vickyvam72/LumiSignal/releases/latest)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-kebutuhan-sistem)
@@ -22,18 +22,18 @@
 
 ## 🌟 Kenapa LumiSignal?
 
-> **Lumi Signal IDX** memindai closing semua saham BEI setiap hari bursa, lalu menyajikan **Top 5 saham untuk dibeli di sesi berikutnya**, lengkap dengan batas harga beli, take profit, dan stop loss. Setelah itu setiap sinyal **diaudit otomatis dengan harga asli** sampai kena TP atau SL, jadi kamu bisa melihat hasil nyatanya.
+> **Lumi Signal IDX** memindai closing semua saham BEI setiap hari bursa, lalu menyajikan **Top 5 saham pantauan untuk sesi berikutnya**. Begitu saham benar-benar terbeli, **harga entry, take profit, dan stop loss diumumkan** di Riwayat lengkap dengan notifikasi, lalu **diaudit tiap 1 menit dengan harga asli** sampai kena TP atau SL. Jadi angka yang kamu lihat selalu angka nyata.
 
 | | |
 |---|---|
-| 🕔 **Sinyal tiap 17.00 WIB** | Sinyal beli untuk sesi besok muncul otomatis di Beranda, lengkap dengan **notifikasi**. Tidak perlu screening ulang. |
+| 🕔 **Pantauan tiap 17.00 WIB** | Saham pantauan untuk sesi besok muncul otomatis di Beranda, lengkap dengan **notifikasi tepat pukul 17.00**. Tidak perlu screening ulang. |
 | 🚀 **Profit Tinggi & 🎯 Winrate Tinggi** | Dua jenis sinyal dalam satu halaman: target kenaikan besar, atau target kecil yang lebih sering tercapai. |
-| 📐 **Entry, TP & SL siap pakai** | Harga beli maksimal, take profit, dan stop loss sudah dibulatkan sesuai **fraksi harga BEI**. |
-| 🔍 **Audit otomatis** | Setiap sinyal masuk **Riwayat Strategi** dan dipantau tiap menit saat aplikasi terbuka di jam bursa, atau sekitar 15 menit sekali di latar belakang. |
+| 📐 **Entry, TP & SL saat terbeli** | Harga entry asli, take profit, dan stop loss muncul **begitu saham terbeli**, dibulatkan sesuai **fraksi harga BEI**, dan dikirim lewat notifikasi. |
+| ⏱️ **Audit tiap 1 menit** | Setiap sinyal masuk **Riwayat Strategi** dan dicek **tiap 1 menit selama jam bursa, juga saat aplikasi ditutup**. |
 | 💼 **Portofolio pribadi** | Tandai saham yang benar-benar kamu beli. TP dan SL dihitung ulang dari harga belimu sendiri. |
 | 🧪 **Backtest per bulan** | Hasil strategi sejak Oktober 2025, **bertambah otomatis setiap hari** dengan transaksi baru yang sudah kena TP atau SL. |
-| 📊 **Cek Saham** | Analisa satu saham: rencana entry, TP & SL, **2 support & 2 resistance**, dan chart. |
-| 🖼️ **Laporan siap dibagikan** | Bagikan sinyal, riwayat, atau backtest sebagai **gambar** yang rapi, otomatis jadi beberapa halaman kalau panjang. |
+| 📊 **Cek Saham** | Analisa satu saham: rencana entry, TP & SL, **2 support & 2 resistance**, dan chart, **bisa dibagikan sebagai gambar**. |
+| 🖼️ **Laporan siap dibagikan** | Bagikan saham pantauan, riwayat, backtest, atau hasil analisa sebagai **gambar** yang rapi, otomatis jadi beberapa halaman kalau panjang. |
 | 🔒 **Hanya membaca data** | Akun Stockbit dipakai untuk membaca harga saja. Aplikasi **tidak pernah membuat order**. |
 
 ---
@@ -45,7 +45,7 @@
 | 🏠 Beranda | 🖼️ Bagikan sebagai gambar |
 |:-:|:-:|
 | <img src="docs/screenshots/beranda.png" width="250" alt="Beranda Lumi Signal IDX"> | <img src="docs/screenshots/bagikan-sinyal.png" width="250" alt="Gambar sinyal yang dibagikan"> |
-| **Buka aplikasi, sinyal sudah menunggu.** Top 5 Profit Tinggi dan Winrate Tinggi untuk besok, lengkap dengan **batas beli, TP, dan SL**. Tiba setiap hari pukul **17.00 WIB**. | **Satu ketukan, langsung siap dikirim.** Tanggal beli, entry, TP, SL, dan **kenapa saham itu masuk radar**, rapi dalam satu gambar untuk grup atau teman. |
+| **Buka aplikasi, pantauan sudah menunggu.** Top 5 Profit Tinggi dan Winrate Tinggi untuk besok, tiba setiap hari pukul **17.00 WIB**. Entry, TP & SL menyusul **begitu saham terbeli**. | **Satu ketukan, langsung siap dikirim.** Tanggal beli, kode saham, dan **kenapa saham itu masuk radar**, rapi dalam satu gambar untuk grup atau teman. |
 
 | 📡 Screening pertama | 📜 Riwayat |
 |:-:|:-:|
@@ -57,6 +57,11 @@
 | <img src="docs/screenshots/cek-saham.png" width="250" alt="Cek Saham"> | <img src="docs/screenshots/backtest.png" width="250" alt="Backtest per bulan"> |
 | **Penasaran dengan satu saham?** Ketik kodenya dan dapatkan rencana entry, TP & SL, plus **2 support dan 2 resistance** langsung di chart. | **Uji strategi sebelum percaya.** Hasil setiap bulan sejak Oktober 2025, **bertambah sendiri setiap hari** dengan transaksi yang sudah selesai. |
 
+| 🧾 Bagikan hasil analisa | 📋 Semua pantauan hari ini |
+|:-:|:-:|
+| <img src="docs/screenshots/bagikan-analisa.png" width="250" alt="Gambar hasil Cek Saham"> | <img src="docs/screenshots/bagikan-semua.png" width="250" alt="Gambar semua saham pantauan"> |
+| **Analisa satu saham, siap dikirim.** Area beli, TP, SL, **2 support & 2 resistance**, dan chart 60 sesi dalam satu gambar. | **Seluruh pantauan besok dalam satu kiriman.** Profit Tinggi dan Winrate Tinggi, lengkap dengan alasan masuk radar. |
+
 </div>
 
 ---
@@ -66,20 +71,21 @@
 ### 🏠 Beranda
 - **"Sinyal beli untuk [tanggal]"**: yang ditampilkan selalu tanggal beli, bukan tanggal closing, supaya tidak salah paham
 - **PROFIT TINGGI** dan **WINRATE TINGGI** dengan judul berwarna mencolok, masing-masing berisi Top 5 saham
-- Setiap saham: kode, strategi, **BELI ≤**, **TP**, **SL**, tombol **bagikan**, dan **Tambahkan ke Porto**
+- Setiap saham: kode, strategi, tanda **👁 Dipantau**, tombol **bagikan**, dan **Tambahkan ke Porto**
+- **Entry, TP & SL belum ditampilkan** di Beranda. Angka itu baru muncul di Riwayat begitu saham terbeli, supaya yang kamu lihat selalu harga nyata
 - Pengingat **"Refresh tiap 17.00 WIB"** dan kartu kondisi pasar
 - Tombol **Bagikan** untuk mengirim semua sinyal hari itu dalam satu gambar
 
 ### 🔔 Otomatis setiap hari bursa
-- Pukul **17.00 WIB** aplikasi mengambil sinyal terbaru, **langsung memasukkannya ke Riwayat Strategi**, lalu mengirim **notifikasi**
-- Harga diaudit dengan high & low harian asli: **tiap menit** saat aplikasi terbuka di jam bursa, sekitar **15 menit sekali** di latar belakang
-- Notifikasi saat harga menyentuh **entry, TP, atau SL**
+- Pukul **17.00 WIB** aplikasi mengambil saham pantauan terbaru, **langsung memasukkannya ke Riwayat Strategi**, lalu mengirim **notifikasi**
+- Harga diaudit dengan high & low harian asli **tiap 1 menit selama jam bursa, juga saat aplikasi ditutup** (ada notifikasi kecil "Audit harga berjalan")
+- Notifikasi **"✅ terbeli di …"** lengkap dengan **entry, TP, dan SL**, lalu notifikasi lagi saat kena **TP atau SL**
 - **Token Stockbit diperbarui otomatis setiap hari**, jadi tidak perlu sering login ulang
 
 ### 📜 Riwayat
 - **Riwayat Strategi**: semua sinyal sejak aplikasi dipasang, dengan total, hold, TP, SL, winrate, dan **akumulasi P/L**
 - **Riwayat Portofolio**: saham yang kamu tandai sendiri
-- Setiap kartu menampilkan alur **SINYAL UTK › BELI › JUAL › HOLD**, plus Entry, TP, dan SL
+- Setiap kartu menampilkan alur **SINYAL UTK › BELI › JUAL › HOLD**, plus Entry, TP, dan SL setelah terbeli
 
 ### 🧪 Backtest
 - Pilih bulan dari **Oktober 2025** sampai bulan berjalan
@@ -95,10 +101,11 @@
 ### 🖼️ Bagikan sebagai gambar
 | Yang dibagikan | Isinya |
 |---|---|
-| Satu sinyal | Tanggal beli, kode saham, entry, TP, SL, dan **kenapa masuk radar** |
-| Semua sinyal hari itu | Profit Tinggi & Winrate Tinggi dalam satu gambar |
+| Satu saham pantauan | Tanggal beli, kode saham, dan **kenapa masuk radar** |
+| Semua pantauan hari itu | Profit Tinggi & Winrate Tinggi dalam satu gambar |
+| Hasil Cek Saham | Harga, area beli, TP, SL, **2 support & 2 resistance**, dan chart 60 sesi |
 | Satu riwayat | Kode, entry, TP, SL, **P/L**, tanggal beli & tanggal jual |
-| Laporan Riwayat Strategi | Pilih **dari tanggal – sampai tanggal**: total transaksi, TP, SL, akumulasi P/L, dan tabel kode · beli · jual · hold · TP · SL · P/L |
+| Laporan Riwayat Strategi | Pilih **dari tanggal – sampai tanggal**: total transaksi, TP, SL, akumulasi P/L, dan tabel kode · beli · jual · hold · **entry** · TP · SL · P/L |
 | Laporan Portofolio | Semua posisi porto dalam format yang sama |
 | Laporan Backtest | Pilih **satu bulan**, format yang sama |
 
@@ -109,7 +116,7 @@ Semua dikirim **hanya sebagai gambar**, tanpa teks tambahan. Laporan yang panjan
 ## ⬇️ Unduh & Pasang
 
 1. Buka halaman **[Releases](https://github.com/vickyvam72/LumiSignal/releases/latest)**.
-2. Di bagian **Assets**, unduh `LumiSignalIDX-v2.0.apk`.
+2. Di bagian **Assets**, unduh `LumiSignalIDX-v2.2.apk`.
 3. Buka file yang sudah diunduh. Kalau Android meminta, izinkan **"Instal aplikasi tidak dikenal"** untuk browser atau pengelola file yang kamu pakai.
 4. Tekan **Instal**. Selesai! 🎉
 
@@ -132,8 +139,9 @@ Semua dikirim **hanya sebagai gambar**, tanpa teks tambahan. Laporan yang panjan
 Setelah itu Beranda selalu langsung menampilkan sinyal beli terbaru.
 
 ### 1️⃣ Membaca sinyal
-- **BELI ≤ 84** artinya beli di harga pembukaan kalau ≤ 84. Kalau dibuka lebih tinggi, antre beli di 84. Order berlaku **satu sesi**; kalau tidak terisi, sinyal **batal**.
-- **TP** dan **SL** dihitung ulang dari harga beli sebenarnya.
+- Saham di Beranda adalah **pantauan** untuk sesi yang tertulis di kartu tanggal.
+- Begitu saham itu **terbeli** di sesi tersebut, kamu mendapat notifikasi **"✅ SMGA terbeli di 82 · TP 91 · SL 77"**, dan angka yang sama muncul di Riwayat.
+- Kalau harga tidak pernah turun ke batas beli selama sesi itu, sinyal **batal**.
 - Saham yang masih dipegang tidak direkomendasikan lagi.
 
 ### 2️⃣ Tambahkan ke Porto
@@ -155,7 +163,7 @@ Menu **Akun** → **Reset riwayat strategi** atau **Reset riwayat portofolio**.
 <details>
 <summary><b>Notifikasi 17.00 terlambat atau tidak muncul</b></summary>
 
-Pastikan notifikasi diizinkan, Lumi dikecualikan dari penghemat baterai, dan **Autostart** menyala (menu **Akun** → **Buka Autostart**). Di Android 14 ke atas, nyalakan juga **Setelan → Aplikasi → Lumi Signal IDX → "Alarm & pengingat"** supaya notifikasi tepat pukul 17.00. Tanpa itu notifikasi bisa terlambat sampai sekitar 15 menit.
+Pastikan notifikasi diizinkan, Lumi dikecualikan dari penghemat baterai, dan **Autostart** menyala (menu **Akun** → **Buka Autostart**). Izinkan juga **Alarm tepat waktu** di halaman izin (atau **Setelan → Aplikasi → Lumi Signal IDX → "Alarm & pengingat"**) supaya notifikasi tepat pukul 17.00.
 </details>
 
 <details>
@@ -199,7 +207,7 @@ Tidak. Lumi Signal IDX **hanya membaca data** dan **tidak pernah membuat order**
 |---|---|
 | Bahasa | **Kotlin** |
 | Tampilan | **Jetpack Compose**, Material 3 |
-| Latar belakang | **WorkManager** (audit tiap ±15 menit) dan **AlarmManager** (sinyal 17.00 WIB) |
+| Latar belakang | **Foreground service** (audit tiap 1 menit selama jam bursa), **AlarmManager** (pantauan 17.00 & audit mulai 08.50 WIB), dan **WorkManager** sebagai cadangan |
 | Jaringan | OkHttp, kotlinx.serialization |
 | Mesin radar | **Python** (pandas, NumPy) di GitHub Actions setiap hari bursa |
 | Gambar laporan | Android Canvas, dibagikan lewat FileProvider |

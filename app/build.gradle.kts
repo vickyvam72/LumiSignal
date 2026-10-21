@@ -7,8 +7,8 @@ plugins {
 
 val ciRun = System.getenv("GITHUB_RUN_NUMBER")?.toIntOrNull() ?: 1
 
-// Version from release-notes/CURRENT (e.g. "v2.0"). versionCode keeps rising past the 1.0.x builds.
-val releaseTag = rootProject.file("release-notes/CURRENT").takeIf { it.exists() }?.readText()?.trim() ?: "v2.0"
+// Version from release-notes/CURRENT (e.g. "v2.2"). versionCode keeps rising past the 1.0.x builds.
+val releaseTag = rootProject.file("release-notes/CURRENT").takeIf { it.exists() }?.readText()?.trim() ?: "v2.2"
 val appVersion = releaseTag.removePrefix("v")
 
 // Signing key: GitHub Actions Secrets in CI, keystore/lumisignal.jks locally. Never stored in the repo.

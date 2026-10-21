@@ -10,11 +10,57 @@
 
 ---
 
-## ✦ v2.0 — 15 Oktober 2026 / 15 October 2026
+## ✦ v2.2 — 21 Oktober 2026 / 21 October 2026
 
 > 🌐 **Pilih bahasa / Choose your language** — ketuk salah satu untuk membuka / tap a section to expand it.
 
 <details open>
+<summary><h2>🇮🇩 Bahasa Indonesia</h2></summary>
+
+### ⚡ Peningkatan
+
+- **Beranda jadi daftar saham pantauan**: entry, TP, dan SL tidak lagi ditampilkan di Beranda. Angka itu baru muncul di **Riwayat Strategi begitu saham benar-benar terbeli**, jadi harga di Beranda dan Riwayat tidak pernah berbeda lagi
+- **Notifikasi saat terbeli**: "✅ SMGA terbeli di 82", lengkap dengan **entry, TP, dan SL**. Notifikasi TP dan SL juga menyertakan entry
+- **Notifikasi saham pantauan tepat pukul 17.00 WIB**: mesin radar di server kini berjalan tepat setelah bursa tutup, tidak lagi tertunda sampai malam
+- **Audit harga tiap 1 menit selama jam bursa, juga saat aplikasi ditutup**, ditandai notifikasi kecil "Audit harga berjalan". Audit mulai otomatis pukul 08.50 WIB dan berhenti sendiri setelah bursa tutup
+- **Bagikan hasil Cek Saham** sebagai gambar: harga, area beli, TP, SL, 2 support & 2 resistance, dan chart 60 sesi
+- Laporan **Riwayat** dan **Backtest** yang dibagikan kini punya kolom **ENTRY**
+- Gambar saham pantauan yang dibagikan kini fokus pada tanggal beli, kode saham, dan alasan masuk radar
+- Halaman izin menambahkan **Alarm tepat waktu** (Android 12 ke atas) supaya notifikasi 17.00 dan audit 08.50 tepat waktu
+
+### 🐞 Perbaikan
+- Harga entry, TP, dan SL di Beranda tidak lagi berbeda dengan yang tercatat di Riwayat
+- Notifikasi saham pantauan tidak lagi baru muncul sekitar pukul 22.00
+
+</details>
+
+<details>
+<summary><h2>🇬🇧 English</h2></summary>
+
+### ⚡ Improvements
+
+- **Home is now a watchlist**: entry, TP, and SL are no longer shown on Home. They appear in **Strategy History once the stock is actually bought**, so Home and History never show different prices again
+- **Notification when bought**: "✅ SMGA bought at 82", with **entry, TP, and SL**. TP and SL notifications include the entry too
+- **Watchlist notification right at 17:00 WIB**: the server radar now runs right after the close instead of being delayed until the evening
+- **Price audit every minute during market hours, even with the app closed**, shown by a small "price audit running" notification. It starts at 08:50 WIB and stops by itself after the close
+- **Share a stock check** as an image: price, buy area, TP, SL, 2 supports & 2 resistances, and a 60-session chart
+- Shared **History** and **Backtest** reports now have an **ENTRY** column
+- Shared watchlist images now focus on the buy date, ticker, and why the stock made the radar
+- The permission screen adds **On-time alarms** (Android 12+) so the 17:00 notification and the 08:50 audit start on time
+
+### 🐞 Fixes
+- Entry, TP, and SL on Home no longer differ from what History records
+- The watchlist notification no longer arrives around 22:00
+
+</details>
+
+---
+
+## ✦ v2.0 — 15 Oktober 2026 / 15 October 2026
+
+> 🌐 **Pilih bahasa / Choose your language** — ketuk salah satu untuk membuka / tap a section to expand it.
+
+<details>
 <summary><h2>🇮🇩 Bahasa Indonesia</h2></summary>
 
 ### ⚡ Peningkatan
