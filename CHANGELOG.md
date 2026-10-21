@@ -35,6 +35,8 @@
 - Harga entry, TP, dan SL di Beranda tidak lagi berbeda dengan yang tercatat di Riwayat
 - Notifikasi saham pantauan tidak lagi baru muncul sekitar pukul 22.00: server kini punya "jam" sendiri dan tidak bergantung pada jadwal GitHub yang sering terlambat
 - Sinyal untuk sesi berikutnya tidak lagi tertinggal di tanggal hari ini pada malam hari
+- Urutan saham di Riwayat kini sama dengan urutan Top 5 di Beranda
+- Kartu Riwayat Portofolio tidak lagi punya ruang kosong di tengah
 
 </details>
 
@@ -59,6 +61,8 @@
 - Entry, TP, and SL on Home no longer differ from what History records
 - The watchlist notification no longer arrives around 22:00: the server now keeps its own clock instead of relying on GitHub’s often-late schedule
 - Signals for the next session no longer stay on today’s date in the evening
+- Stocks in History are now in the same order as the Top 5 on Home
+- Portfolio History cards no longer have an empty gap in the middle
 
 </details>
 
