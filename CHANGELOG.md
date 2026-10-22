@@ -37,6 +37,7 @@
 - Sinyal untuk sesi berikutnya tidak lagi tertinggal di tanggal hari ini pada malam hari
 - Urutan saham di Riwayat kini sama dengan urutan Top 5 di Beranda
 - Kartu Riwayat Portofolio tidak lagi punya ruang kosong di tengah
+- Saham tidak lagi dianggap terbeli sebelum pasar buka: audit hanya memakai harga yang benar-benar tertransaksi (ada volume) sejak pukul 09.00
 
 </details>
 
@@ -63,6 +64,7 @@
 - Signals for the next session no longer stay on today’s date in the evening
 - Stocks in History are now in the same order as the Top 5 on Home
 - Portfolio History cards no longer have an empty gap in the middle
+- A stock is no longer marked bought before the market opens: the audit only uses prices that actually traded (with volume) from 09:00
 
 </details>
 
